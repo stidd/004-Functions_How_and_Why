@@ -13,9 +13,7 @@ function twoDigitRandomHex() {
 
 //console.log(twoDigitRandomHex())
 
-function threeDigitRandomHex() {
-    return randomHex() + randomHex() + randomHex();
-}
+// Make your function here!! 
 
 
 
